@@ -1,4 +1,4 @@
-name: Retail Pipeline CI
+name: Retail Pipeline CI Fixed
 
 on:
   push:
