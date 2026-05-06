@@ -1,0 +1,6 @@
+order_id,customer_id,product,category,quantity,order_date
+1,101,Laptop,Electronics,1,2024-01-01
+2,102,Phone,Electronics,2,2024-01-01
+3,103,Shoes,Fashion,1,2024-01-02
+4,104,T-Shirt,Fashion,,2024-01-03
+4,104,T-Shirt,Fashion,,2024-01-03
